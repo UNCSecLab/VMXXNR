@@ -1,5 +1,6 @@
 # VMXXNR
 === About VMXXNR ===
+
 This repository contains the source code of the thin hypervisor that was used
 to implement No-Execute After Read memory permission primitive.
 For more details about this research please see the paper titled:
@@ -36,6 +37,7 @@ It achieves this as follows:
 
 
 === Acknowledgements ===
+
 This work is supported in part by the National Science Foundation under award
 1421703.
 
