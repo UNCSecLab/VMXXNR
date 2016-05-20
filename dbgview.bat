@@ -1,0 +1,1 @@
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager" /v "Debug Print Filter" /t REG_DWORD /d 0x0000000f /f
